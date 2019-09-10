@@ -4,7 +4,8 @@
   "description": "Webpack gym ",
   "main": "index.js",
   "scripts": {
-    "build:externals": "webpack --config ./externals/webpack.config.js"
+    "build:externals": "webpack --config ./externals/webpack.config.js",
+    "build:multi": "webpack --config ./multiple-entry-points/webpack.config.js"
   },
   "keywords": [
     "webpack"
