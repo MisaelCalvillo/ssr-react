@@ -7,8 +7,6 @@ body {
   margin: 0;
   font-size: 40px;
   font-family: Arial;
-
-  animation: 500ms latido infinite;
 }
 
 @keyframes latido {
